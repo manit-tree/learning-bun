@@ -1,4 +1,4 @@
-# learing-bun
+# learning-bun
 Learning how to use Bun
 
 ![image](https://github.com/user-attachments/assets/0f0f42cc-161c-49ef-8b6d-06712c37b7ff)
