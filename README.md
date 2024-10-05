@@ -18,3 +18,5 @@ Learning how to use Bun
 ![image](https://github.com/user-attachments/assets/1b5b5210-f066-49e7-9d40-a7852fba93a3)
 
 ![image](https://github.com/user-attachments/assets/7eb1bfa8-dcf0-4fd9-a717-c39f04427972)
+
+![image](https://github.com/user-attachments/assets/643e57d5-7a8c-48c1-9ed2-a58711a957a2)
